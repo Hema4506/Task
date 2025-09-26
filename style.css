@@ -19,7 +19,6 @@ body {
     color: var(--text-color);
     line-height: 1.6;
 }
-
 /* --- Header & Navigation --- */
 header {
     background-color: var(--primary-color);
@@ -58,7 +57,7 @@ main {
 h1 {
     text-align: center;
     margin-bottom: 30px;
-    color: var(--primary-color);
+    color: violet;
 }
 
 .controls {
